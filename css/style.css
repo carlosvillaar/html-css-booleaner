@@ -27,6 +27,8 @@ main .box.square span{
 
 main .box.data {
   color: #9B9B9B;
-  font-style: italic;
-  font-size: 0.8rem;
+  font-size: smaller;
+}
+main .box.didascalie {
+  font-size: small;
 }
