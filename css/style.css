@@ -1,3 +1,6 @@
+*{
+  margin: 0;
+}
 header {
   background-color: #4DA1FE;
   background-image: url(../img/pattern.png);
@@ -8,13 +11,6 @@ header {
 header .box.image {
  width: 15%;
  height: 15%;
-}
-main h1{
-  height: 15px;
-}
-
-main .box.square {
-  height: 1px;
 }
 
 main .box.square p {
@@ -31,4 +27,7 @@ main .box.data {
 }
 main .box.didascalie {
   font-size: small;
+}
+.evidenziatore span {
+  background-color: yellow;
 }
