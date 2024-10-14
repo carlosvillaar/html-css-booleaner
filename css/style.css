@@ -33,7 +33,25 @@ main .box.didascalie {
 }
 
 main .table{
+  font-size: medium;
+}
+
+main thead {
+  background-color: #21A8EA;
+  color: white;
   text-align: left;
+}
+
+main tbody{
+  background-color: #B1E7F2;
+  text-align: left;
+  font-size: 14px;
+}
+
+main tfoot{
+  background-color: #B1E7F2;
+  text-align: left;
+  font-size: 14px;
 }
 
 footer h3 {
