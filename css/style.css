@@ -31,3 +31,29 @@ main .box.didascalie {
 .evidenziatore span {
   background-color: yellow;
 }
+
+main .table{
+  text-align: left;
+}
+
+footer h3 {
+  color: #9B9B9B;
+}
+
+footer .image-foot {
+  background-image: url(../img/monitor.jpg);
+  background-repeat: no-repeat;
+  min width: 160px;
+  min-height: 200px;
+  color: white;
+  font-size: x-large;
+}
+
+footer .image--foot {
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  min-width: 160px;
+  min-height: 200px;
+  color: white;
+  font-size: x-large;
+}
