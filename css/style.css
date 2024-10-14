@@ -1,0 +1,26 @@
+header {
+  background-color: #4DA1FE;
+  background-image: url(../img/pattern.png);
+  background-size: contain;
+  padding-top: 40px;
+
+}
+header .box.image {
+ width: 15%;
+}
+
+main .box.square {
+  width: 30%;
+}
+
+main .box.square p {
+  color: #9B9B9B;
+}
+
+main .box.square span{
+  color: #5FA7C3;
+}
+
+main .box.data {
+  color: #9B9B9B;
+}
