@@ -7,10 +7,14 @@ header {
 }
 header .box.image {
  width: 15%;
+ height: 15%;
+}
+main h1{
+  height: 15px;
 }
 
 main .box.square {
-  width: 30%;
+  height: 1px;
 }
 
 main .box.square p {
@@ -23,4 +27,6 @@ main .box.square span{
 
 main .box.data {
   color: #9B9B9B;
+  font-style: italic;
+  font-size: 0.8rem;
 }
