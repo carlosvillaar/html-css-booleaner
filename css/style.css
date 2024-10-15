@@ -1,10 +1,10 @@
-*{
+body{
   margin: 0;
 }
 header {
   background-color: #4DA1FE;
   background-image: url(../img/pattern.png);
-  background-size: contain;
+  background-size: 25%;
   padding-top: 40px;
 
 }
@@ -34,12 +34,14 @@ main .box.didascalie {
 
 main .table{
   font-size: medium;
+  border-color: #21A8EA;
 }
 
 main thead {
   background-color: #21A8EA;
   color: white;
   text-align: left;
+  border-color: #21A8EA;
 }
 
 main tbody{
@@ -74,4 +76,8 @@ footer .image--foot {
   min-height: 200px;
   color: white;
   font-size: x-large;
+}
+
+ul{
+  padding: 15px;
 }
